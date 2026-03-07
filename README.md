@@ -65,6 +65,9 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
-[![An image of @aditideshmukh36123glitch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditideshmukh36123glitch)]
 
+
+## Hacktoberfest
+
+<a href="https://holopin.me/aditideshmukh36123glitch"> <img src="badegs.png"></a>
 
