@@ -71,3 +71,25 @@ Here are some ideas to get you started:
 
 <a href="https://holopin.me/aditideshmukh36123glitch"> <img src="badegs.png"></a>
 
+
+
+<h2 align="center">🎮 Fun Zone</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Snake+eating+my+GitHub+contributions" />
+</p>
+
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="700"/>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditideshmukh36123-glitch&show_icons=true&theme=tokyonight" />
+</p>
