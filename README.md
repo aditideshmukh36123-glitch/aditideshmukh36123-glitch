@@ -88,8 +88,12 @@ Here are some ideas to get you started:
 
 
 
-## 📊 GitHub Stats
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditideshmukh36123-glitch&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/aditideshmukh36123-glitch"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aditi-deshmukh-16516b385/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aditideshmukh36123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
