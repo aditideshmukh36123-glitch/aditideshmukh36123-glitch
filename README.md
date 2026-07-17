@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👩‍💻 About Me
-- 🎓 2nd Year Software Engineering Student
+- 🎓 3rd Year Software Engineering Student
 - 🧠 Learning: Web Development, DSA, and System Design
 - 💡 I like building projects that solve real problems
 
