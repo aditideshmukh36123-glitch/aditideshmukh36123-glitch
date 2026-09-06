@@ -1,99 +1,42 @@
-# Hi 👋, I'm Aditi Deshmukh
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&duration=1500&pause=1200&color=1E90FF&vCenter=true&width=420&lines=Full+Stack+Developer;Problem+Solver;Website+Designer;Tech+Enthusiast" />
+# 👋 Hi, I'm Aditi Deshmukh
 
-<!--
-**aditideshmukh36123-glitch/aditideshmukh36123-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&duration=1800&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+AWS;Problem+Solver;Cloud+Enthusiast;Building+%7C+Learning+%7C+Growing" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/aditideshmukh36123-glitch">
+    <img src="https://komarev.com/ghpvc/?username=aditideshmukh36123-glitch&label=Profile%20Views&color=1E90FF&style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/followers/aditideshmukh36123-glitch?label=Followers&style=flat&color=1E90FF" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 ## 👩‍💻 About Me
-- 🎓 3rd Year Software Engineering Student
-- 🧠 Learning: Web Development, DSA, and System Design
-- 💡 I like building projects that solve real problems
 
-<br>
+🎓 **3rd Year Computer Science Engineering Student**
 
+💻 Passionate about **Software Development, Java and DSA**
 
-## 🛠️ Tech Stack
+☁️ Exploring **AWS & Cloud Computing**
 
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+🧠 Currently improving my **problem-solving and development skills**
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+🚀 I enjoy building projects that solve **real-world problems**
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" />
-</p>
+🎨 I also love **UI design and creating clean, user-friendly websites**
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+> **"Learning every day. Building one project at a time. 🚀"**
 
-### ☁️ Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
+---
 
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+## ⚡ What I'm Currently Doing
 
-
-## Hacktoberfest
-
-<a href="https://holopin.me/aditideshmukh36123glitch"> <img src="badegs.png"></a>
-
-
-
-<h2 align="center">🎮 Fun Zone</h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Snake+eating+my+GitHub+contributions" />
-</p>
-
-<p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="700"/>
-</p>
-
-
-
-
-
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-<a href="https://github.com/aditideshmukh36123-glitch"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aditi-deshmukh-16516b385/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aditideshmukh36123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-</p>
+```text
+☕ Java & Object-Oriented Programming
+🧩 Data Structures & Algorithms
+🌐 Web Development
+☁️ AWS & Cloud Computing
+💻 Software Development
+🎨 UI / Website Design
