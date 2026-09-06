@@ -1,5 +1,4 @@
 # Hi 👋, I'm Aditi Deshmukh
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&duration=1500&pause=1200&color=1E90FF&vCenter=true&width=420&lines=Full+Stack+Developer;Problem+Solver;Website+Designer;Tech+Enthusiast" />
 
 <!--
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ## 👩‍💻 About Me
-
 - 🎓 3rd Year Software Engineering Student
 - 🧠 Learning: Web Development, DSA, and System Design
 - 💡 I like building projects that solve real problems
@@ -28,112 +26,48 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=c" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" />       
+<img src="https://skillicons.dev/icons?i=cpp" />       
+<img src="https://skillicons.dev/icons?i=java" />       
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🌐 Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" />       
+<img src="https://skillicons.dev/icons?i=css" />       
+<img src="https://skillicons.dev/icons?i=js" />       
 <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### ⚙️ Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" />       
 <img src="https://skillicons.dev/icons?i=express" />
 </p>
 
 ### 🗄️ Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />       
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### ☁️ Cloud
-
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### 🛠 Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" />       
+<img src="https://skillicons.dev/icons?i=github" />       
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditideshmukh36123-glitch&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditideshmukh36123-glitch&theme=transparent&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditideshmukh36123-glitch&theme=github-compact&hide_border=true" width="90%"/>
-</p>
-
-
-## 📈 My GitHub Contributions
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditideshmukh36123-glitch&layout=compact&theme=transparent&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-  <b>💚 Every contribution is a step forward!</b>
-
-</p>
-
-
-## 🐍 My Contribution Trail
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="700"/>
-</p>
-
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditideshmukh36123-glitch&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4" width="90%"/>
-</p>
-
-
-## 📌 GitHub Stats
-
-<p align="center">
-
-  <img src="https://img.shields.io/github/commit-activity/y/aditideshmukh36123-glitch?style=for-the-badge&label=COMMITS&color=1E90FF"/>
-
-  <img src="https://img.shields.io/github/last-commit/aditideshmukh36123-glitch?style=for-the-badge&label=LAST%20COMMIT&color=1E90FF"/>
-
-  <img src="https://img.shields.io/github/repo-size/aditideshmukh36123-glitch/aditideshmukh36123-glitch?style=for-the-badge&label=PROFILE%20README&color=1E90FF"/>
-
-</p>
-
-
 ## Hacktoberfest
 
-<a href="https://holopin.me/aditideshmukh36123glitch">
-  <img src="badegs.png">
-</a>
-
+<a href="https://holopin.me/aditideshmukh36123glitch"> <img src="badegs.png"></a>
 
 <h2 align="center">🎮 Fun Zone</h2>
 
@@ -145,25 +79,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="700"/>
 </p>
 
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://github.com/aditideshmukh36123-glitch">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/aditi-deshmukh-16516b385/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:aditideshmukh36123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
+<a href="https://github.com/aditideshmukh36123-glitch"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+      
+<a href="https://www.linkedin.com/in/aditi-deshmukh-16516b385/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+      
+<a href="mailto:aditideshmukh36123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
